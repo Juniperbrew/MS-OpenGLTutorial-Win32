@@ -1,4 +1,6 @@
-*.sdf
-Release
-*.opendb
+Release/
+Debug/
 .vs/
+
+*.opendb
+*.sdf
